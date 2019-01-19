@@ -1,2 +1,4 @@
-# Shift-Cypher
-Code for a basic shift-cypher
+# WC
+This code implements a simplified version of the Unix Command "wc"
+It can only support the flags -c, -l, and -w
+
